@@ -13,6 +13,7 @@
 		8BA6AAD52F51E6A800DCD0F0 /* WorldClockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA6AAD42F51E6A800DCD0F0 /* WorldClockView.swift */; };
 		8BA6AAD72F51E6B700DCD0F0 /* AlarmsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA6AAD62F51E6B700DCD0F0 /* AlarmsView.swift */; };
 		8BA6AAD92F51E75400DCD0F0 /* StopwatchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA6AAD82F51E75400DCD0F0 /* StopwatchView.swift */; };
+		8BA6AB092F5765B600DCD0F0 /* CityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA6AB082F5765B600DCD0F0 /* CityView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		8BA6AAD42F51E6A800DCD0F0 /* WorldClockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldClockView.swift; sourceTree = "<group>"; };
 		8BA6AAD62F51E6B700DCD0F0 /* AlarmsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlarmsView.swift; sourceTree = "<group>"; };
 		8BA6AAD82F51E75400DCD0F0 /* StopwatchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopwatchView.swift; sourceTree = "<group>"; };
+		8BA6AB082F5765B600DCD0F0 /* CityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 			children = (
 				8BA6AACE2F51E51300DCD0F0 /* LandingView.swift */,
 				8BA6AAD42F51E6A800DCD0F0 /* WorldClockView.swift */,
+				8BA6AB082F5765B600DCD0F0 /* CityView.swift */,
 				8BA6AAD62F51E6B700DCD0F0 /* AlarmsView.swift */,
 				8BA6AAD82F51E75400DCD0F0 /* StopwatchView.swift */,
 			);
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8BA6AAD12F51E51300DCD0F0 /* ClockApp.swift in Sources */,
+				8BA6AB092F5765B600DCD0F0 /* CityView.swift in Sources */,
 				8BA6AAD52F51E6A800DCD0F0 /* WorldClockView.swift in Sources */,
 				8BA6AAD72F51E6B700DCD0F0 /* AlarmsView.swift in Sources */,
 				8BA6AAD92F51E75400DCD0F0 /* StopwatchView.swift in Sources */,
